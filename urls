@@ -1,0 +1,7 @@
+https://hackernoon.com/manage-aws-vpc-as-infrastructure-as-code-with-terraform-55f2bdb3de2a
+
+https://nickcharlton.net/posts/terraform-aws-vpc.html
+
+https://github.com/terraform-aws-modules/terraform-aws-ec2-instance/blob/master/examples/basic/main.tf
+
+https://github.com/terraform-aws-modules/terraform-aws-vpc/blob/master/main.tf
