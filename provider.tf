@@ -1,4 +1,3 @@
-provider "aws" {
-	access_key 
+provider "aws" { 
 	region = "us-east-1"
 }
